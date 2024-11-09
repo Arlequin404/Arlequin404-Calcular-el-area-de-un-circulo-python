@@ -1,8 +1,11 @@
-# Utiliza la imagen oficial de Python
-FROM python:3.9-slim
+# Usar una imagen base de Python
+FROM python:3.11
 
-# Copia el archivo de Python al contenedor
-COPY app.py /app.py
+# Establecer el directorio de trabajo
+WORKDIR /app
 
-# Ejecuta el programa
-CMD ["python", "/app.py"]
+# Copiar el código fuente al contenedor
+COPY . .
+
+# Ejecutar el programa
+CMD ["python", "circle_area.py"]
