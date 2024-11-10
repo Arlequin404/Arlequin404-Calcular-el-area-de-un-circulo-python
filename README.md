@@ -57,9 +57,6 @@ Este repositorio está disponible bajo la Licencia MIT.
 
 
 
-Claro, aquí tienes la descripción con los iconos adecuados para el `README.md` de GitHub:
-
-markdown
 # Python Circle Area Calculator
 
 This repository contains a Python program that calculates the area of a circle given its radius.
