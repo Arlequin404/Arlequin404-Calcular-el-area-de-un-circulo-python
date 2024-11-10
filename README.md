@@ -15,15 +15,11 @@ El programa toma el radio de un círculo como entrada y devuelve el área utiliz
 
 Para clonar este repositorio en tu máquina local, usa los siguientes comandos:
 
-bash
-
 `git clone https://github.com/alex8991/python-circle-area.git`
 
 `cd python-circle-area`
 
 Para ejecutar el programa, usa:
-
-bash
 
 Copiar código
 
@@ -31,25 +27,19 @@ Copiar código
 
 Dockerización
 
-Paso 1: Construir la Imagen Docker
-
-bash
+**Paso 1: Construir la Imagen Docker**
 
 Copiar código
 
 `docker build -t python-circle-area .`
 
-Paso 2: Etiquetar la Imagen
-
-bash
+**Paso 2: Etiquetar la Imagen**
 
 Copiar código
 
 `docker tag python-circle-area miusuario/python-circle-area:latest`
 
-Paso 3: Subir la Imagen a Docker Hub
-
-bash
+**Paso 3: Subir la Imagen a Docker Hub**
 
 Copiar código
 
@@ -59,6 +49,6 @@ Copiar código
 
 Python Circle Area en Docker Hub
 
-Licencia
+**Licencia**
 
 Este repositorio está disponible bajo la Licencia MIT.
