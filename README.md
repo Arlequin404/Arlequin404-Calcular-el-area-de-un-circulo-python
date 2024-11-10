@@ -22,11 +22,11 @@ cd python-circle-area
 
 Para ejecutar el programa, usa:
 
-Copiar código
+```bash
+python circle_area.py
+```
 
-`python circle_area.py`
-
-Dockerización
+## Dockerización
 
 **Paso 1: Construir la Imagen Docker**
 
