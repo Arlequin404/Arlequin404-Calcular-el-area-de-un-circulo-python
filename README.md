@@ -54,7 +54,7 @@ docker push yourusername/python-circle-area:latest
 
 Este repositorio está disponible bajo la Licencia MIT.
 
-
+*Recuerda reemplazar `<yourusername>` con tu nombre de usuario de GitHub o Docker Hub. Este archivo `README.md` proporciona todos los pasos e información necesaria para clonar, ejecutar, y dockerizar el proyecto.*
 
 
 # Python Circle Area Calculator
@@ -112,3 +112,6 @@ docker push yourusername/python-circle-area:latest
 ## License
 
 This repository is available under the MIT License.
+
+
+*Remember to replace `<your-user>` with your GitHub or Docker Hub username. This `README.md` file provides all the steps and information needed to clone, run, and dockerize the project.*
