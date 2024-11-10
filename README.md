@@ -23,19 +23,23 @@ Para ejecutar el programa, usa:
 bash
 Copiar código
 `python circle_area.py`
+
 Dockerización
 Paso 1: Construir la Imagen Docker
 bash
 Copiar código
 `docker build -t python-circle-area .`
+
 Paso 2: Etiquetar la Imagen
 bash
 Copiar código
 `docker tag python-circle-area miusuario/python-circle-area:latest`
+
 Paso 3: Subir la Imagen a Docker Hub
 bash
 Copiar código
 `docker push miusuario/python-circle-area:latest`
+
 Enlace al Docker Hub
 Python Circle Area en Docker Hub
 
