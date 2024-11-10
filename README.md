@@ -15,7 +15,6 @@ El programa toma el radio de un círculo como entrada y devuelve el área utiliz
 
 Para clonar este repositorio en tu máquina local, usa los siguientes comandos:
 
-```bash
 git clone https://github.com/alex8991/python-circle-area.git
 cd python-circle-area
 Para ejecutar el programa, usa:
